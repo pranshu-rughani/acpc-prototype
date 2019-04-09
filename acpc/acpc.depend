@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1524554397 source:e:\acpc\src\student.cpp
+	"Student.h"
+	<string.h>
+	<iostream>
+	<fstream>
+
+1524487940 e:\acpc\include\student.h
+
+1524497898 source:e:\acpc\src\main.cpp
+	<iostream>
+	"Studentdatabase.h"
+	<fstream>
+	"Collegedatabase.h"
+	"studentview.h"
+	"ACPCserver.h"
+
+1522839570 source:e:\acpc\load.cpp
+	"load.h"
+	<iostream>
+
+1522839581 e:\acpc\load.h
+
+1523524048 e:\acpc\include\load.h
+	"Student.h"
+	"college.h"
+
+1523634761 source:e:\acpc\src\load.cpp
+	"load.h"
+	<iostream>
+	<fstream>
+	"Student.h"
+	<string.h>
+
+1524554361 source:e:\acpc\src\studentview.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"studentview.h"
+	"Studentdatabase.h"
+	"ACPCserver.h"
+	<stdlib.h>
+
+1524497845 e:\acpc\include\studentview.h
+	"Studentdatabase.h"
+	"ACPCserver.h"
+
+1523171936 source:e:\acpc\src\studentaccountview.cpp
+	<iostream>
+	"studentaccountview.h"
+
+1523120115 e:\acpc\include\studentaccountview.h
+	"Student.h"
+
+1524497560 source:e:\acpc\src\college.cpp
+	"college.h"
+	<string.h>
+	<iostream>
+
+1524497412 e:\acpc\include\college.h
+	"branch.h"
+
+1524486261 e:\acpc\include\branch.h
+
+1524507437 source:e:\acpc\src\branch.cpp
+	"branch.h"
+	<string.h>
+	<iostream>
+
+1524502164 source:e:\acpc\src\studentdatabase.cpp
+	"Studentdatabase.h"
+	<fstream>
+	<iostream>
+	"Student.h"
+	<string.h>
+
+1523685543 e:\acpc\include\studentdatabase.h
+	"Student.h"
+
+1523685543 e:\acpc\include\collegedatabase.h
+	"college.h"
+
+1524498110 source:e:\acpc\src\collegedatabase.cpp
+	"Collegedatabase.h"
+	<fstream>
+
+1524542617 source:e:\acpc\src\acpcserver.cpp
+	"ACPCserver.h"
+	<iostream>
+	<fstream>
+	<string.h>
+
+1524501760 e:\acpc\include\acpcserver.h
+	"Studentdatabase.h"
+	"Collegedatabase.h"
+
